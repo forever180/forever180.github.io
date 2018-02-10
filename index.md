@@ -7,7 +7,7 @@ layout: default
 "Si vous aviez une baguette magique, que changeriez vous dans le quartier pour rendre votre quotidien plus
 vert’ueux ? " 
 
-Toutes les enfants, adultes, associations, commerces ... peuvent répondre à ce sujet, par le biais de [formulaire](test.fr), en envoyant un mail à contact-123durable.googlegroups.com ou en se rendant dans un de nos [commerces partenaires](test.fr).
+Tous les enfants, adultes, associations, commerces ... peuvent répondre à ce sujet, par le biais de [formulaire](test.fr), en envoyant un mail à contact-123durable.googlegroups.com ou en se rendant dans un de nos [commerces partenaires](test.fr).
 
 Vous pouvez trouver le réglement de cette appel à idées détaillé sur [ce lien](test.fr)
 
