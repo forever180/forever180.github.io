@@ -2,122 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1) Appel à idée
 
-[Link to another page](another-page).
+"Si vous aviez une baguette magique, que changeriez vous dans le quartier pour rendre votre quotidien plus
+vert’ueux ? " 
 
-There should be whitespace between paragraphs.
+Toutes les enfants, adultes, associations, commerces ... peuvent répondre à ce sujet, par le biais de [formulaire](test.fr), en envoyant un mail à contact-123durable.googlegroups.com ou en se rendant dans un de nos [commerces partenaires](test.fr).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+Vous pouvez trouver le réglement de cette appel à idées détaillé sur [ce lien](test.fr)
 
 
-### Definition lists can be used with HTML syntax.
+## [](#header-2) Un événement ludique le 2 juin 2018, Place de la Croix Rousse
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Afin d'initier votre famille au dévellopement durable, nous vous proposons une journée de jeux avec l'aide de nombreux partenaires spécialistes de la question !
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Cette journée aura lieu le 2 juin 2018, place de la Croix Rousse 69004 Lyon, de 10h à 18h ! 
 
-```
-The final element.
-```
+### [](#header-3)Guide
+
+Enfin afin de vous accompagner dans une transformation au quotidien, nous avons rédigé un guide qui sere en libre distribution le 2 juin mais vous pouvez aussi le retrouver en [téléchargement](test.fr).
